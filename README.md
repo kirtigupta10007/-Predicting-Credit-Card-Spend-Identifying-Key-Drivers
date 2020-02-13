@@ -11,5 +11,7 @@ The objective of this case study is to understand what's driving the total spend
 Please find the following files:
 
 Required .ipynb file
+
 Provided data and other material
+
 Prediction in form of excel file
